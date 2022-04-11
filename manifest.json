@@ -1,0 +1,27 @@
+{
+    "name": "Deep Kotian",
+    "short_name": "DeepKotian",
+    "start_url": "/site.html",
+    "display": "standalone",
+    "background_color": "#6a92a1",
+    "theme_color": "#6a92a1",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+          "src": "/img/icons/icon-72x72.png",
+          "type": "image/png",
+          "sizes": "72x72"
+        },
+        {
+          "src": "/img/icons/icon-96x96.png",
+          "type": "image/png",
+          "sizes": "96x96"
+        },
+        {
+          "src": "/img/icons/icon-128x128.png",
+          "type": "image/png",
+          "sizes": "128x128"
+        }
+        
+      ]
+    }
